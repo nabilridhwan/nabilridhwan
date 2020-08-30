@@ -7,4 +7,4 @@
 - 💬 Ask me about Javascript & NodeJS
 - 📫 How to reach me: [Instagram](https://instagram.com/nabilridhwn)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love math!
+- ⚡ Fun fact: I love Math and Problem Solving!
