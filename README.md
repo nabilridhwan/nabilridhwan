@@ -1,10 +1,10 @@
-### Hi there 👋
+### Howdy! 👋🏼😅
 
-- 🔭 I’m currently working on client work and some cool personal projects!
-- 🌱 I’m currently learning iOS App Development (Swift)
-- 👯 I’m looking to collaborate on open source projects!
-- 🤔 I’m looking for help with Cloud Services/Hosting
+- 🔭 I'm currently a freelance and working on some cool personal projects!
+- 🌱 I'm currently learning iOS App Development using Swift
+- 👯 I'm looking to collaborate on open source projects!
+- 🤔 I'm looking for help with a fundamental understanding of networking, cloud services, and hosting
 - 💬 Ask me about Javascript & NodeJS
-- 📫 How to reach me: [Instagram](https://instagram.com/nabilridhwn)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Math and Problem Solving!
+- 📫 Reach me by [Email](mailto:nabilridhwan@gmail.com) or [Instagram's Direct Message](https://instagram.com/nabilridhwn)
+- 😄 My pronouns are He/Him
+- ⚡ A fun fact about me is that I love Math and Problem Solving!
