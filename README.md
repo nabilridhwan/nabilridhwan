@@ -1,10 +1,21 @@
-### Howdy! 👋🏼😅
+<h2> Hi, I'm Nabil Ridhwan! <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="30"></h2>
 
-- 🔭 I'm currently a freelance and working on some cool personal projects!
-- 👯 I'm looking to collaborate on open source projects!
-- 🤔 I'm looking for help with fundamental knowledge of networking, cloud services, and hosting.
-- 💬 Ask me about Javascript, NodeJS, MongoDB, and ExpressJS. Anything along the MEAN stack!
-- 📫 Reach me by [Email](mailto:nabridhwan@gmail.com) or [Instagram's Direct Message](https://instagram.com/nabilridhwn).
-- ⚡ Fun facts about me:tI love Math 🧮 and Problem Solving 🧠!
+*Student at [Singapore Polytechnic](https://www.sp.edu.sg/) (DCITP)*
+
+### More about me
+```javascript
+
+export const nabil = {
+    pronouns: "he" | "him",
+    current_status: ["Freelance Web Developer", "Working on some cool personal projects"],
+    code: [Javascript, Typescript, HTML, CSS, Python],
+    tools: [React, Node, ExpressJS, MongoDB],
+    ask_me_about: ["Javascript", "React", "Node", "MongoDB", "ExpressJS", "Web Development"],
+    challenge: "Create a social media platform that revolves around music!"
+}
+
+```
+
+*I love connecting with different people so if you want to [say hi](mailto:nabridhwan@gmail.com), I'll be more than happy to talk:))*
 
 [Visit my site!](https://nabilridhwan.github.io)
