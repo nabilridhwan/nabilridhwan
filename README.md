@@ -1,5 +1,7 @@
 <h2> Hi, I'm Nabil Ridhwan! <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="30"></h2>
 
+<img src="https://www.codewars.com/users/nabilridhwan/badges/small" alt="Codewars Stats"/>
+
 *Student at [Singapore Polytechnic](https://www.sp.edu.sg/) (DCITP)*
 
 ### More about me
