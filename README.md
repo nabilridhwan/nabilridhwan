@@ -1,9 +1,10 @@
 <h2> Hi, I'm Nabil Ridhwan! <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="30"></h2>
+<img src="https://www.codewars.com/users/nabilridhwan/badges/small" alt="Codewars Statistics"/>
 
 *Student at [Singapore Polytechnic](https://www.sp.edu.sg/) (Diploma in Information Technology)*
 
-## I'm on Codewars!
-<img src="https://www.codewars.com/users/nabilridhwan/badges/small" alt="Codewars Stats"/>
+## Language Stats!
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilridhwan&layout=compact&theme=omni" alt="Language Statistics"/>
 
 ### More about me
 ```javascript
