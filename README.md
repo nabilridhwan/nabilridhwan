@@ -27,4 +27,4 @@ I'm a student at [Singapore Polytechnic](https://www.sp.edu.sg/) taking Diploma 
 ### 📫 Reach me :)
 
 <a href="mailto:nabridhwan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/nabilrdhwn"><img src="https://img.shields.io/badge/-@nabilrdhwn-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/nabilridhwn"><img src="https://img.shields.io/badge/-@nabilridhwn-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
