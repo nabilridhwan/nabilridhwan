@@ -22,7 +22,7 @@ I'm a student at [Singapore Polytechnic](https://www.sp.edu.sg/) taking Diploma 
 
     
 ### 📊 Statistics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilridhwan&theme=codeSTACKr&layout=compact" alt="Language Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilridhwan&theme=codeSTACKr&layout=compact&hide=css,html,scss" alt="Language Statistics"/>
 
 ### 📫 Reach me :)
 
