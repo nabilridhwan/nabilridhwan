@@ -4,7 +4,7 @@
 *Student at [Singapore Polytechnic](https://www.sp.edu.sg/) (Diploma in Information Technology)*
 
 ## Language Stats!
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilridhwan&layout=compact&theme=omni" alt="Language Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilridhwan&layout=compact&theme=codeSTACKr" alt="Language Statistics"/>
 
 ### More about me
 ```javascript
