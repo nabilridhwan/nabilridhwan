@@ -1,9 +1,8 @@
 <h2> Hi, I'm Nabil Ridhwan! ( ๑>ᴗ<๑ )</h2>
     
-I'm a student at [Singapore Polytechnic](https://www.sp.edu.sg/) taking Diploma in Information Technology
+I'm a student at [Singapore Polytechnic](https://www.sp.edu.sg/) taking a Diploma in Information Technology. I love tinkering with shiny new web technologies to create solutions and simplify lives. On the side, I love to do competitive programming as it forces me to think harder.
     
 ![codewars](https://www.codewars.com/users/nabilridhwan/badges/small)&nbsp;
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nabilridhwan.nabilridhwan)&nbsp;
 
 ### ⚒️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -19,6 +18,7 @@ I'm a student at [Singapore Polytechnic](https://www.sp.edu.sg/) taking Diploma 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=007ACC)&nbsp;
 
     
 ### 📊 Statistics
