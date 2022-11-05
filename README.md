@@ -1,8 +1,11 @@
 <h2> Hi, I'm Nabil Ridhwan! ( ๑>ᴗ<๑ )</h2>
     
-I'm a student at [Singapore Polytechnic](https://www.sp.edu.sg/) taking a Diploma in Information Technology. I love tinkering with shiny new web technologies to create solutions and simplify lives. On the side, I love to do competitive programming as it forces me to think harder.
+I'm a student at [Singapore Polytechnic](https://www.sp.edu.sg/) taking a Diploma in Information Technology. I love tinkering with shiny new web technologies to create solutions and simplify lives.
     
 ![codewars](https://www.codewars.com/users/nabilridhwan/badges/small)&nbsp;
+    
+### 🤔📖 I am currently learning...
+Data Science & Machine Learning
 
 ### ⚒️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
